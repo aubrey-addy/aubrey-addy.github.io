@@ -8,6 +8,19 @@ h1 {
     text-align: center;
 }
 
+.assignment {
+	display: flex;
+	padding: 10px;
+	margin: 10px;
+	background: lightgray;
+}
+
+.assignment img {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+}
+
 #hearts {
     color: darkcyan;
     text-align: center;
