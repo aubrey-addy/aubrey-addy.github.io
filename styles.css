@@ -12,8 +12,13 @@ p {
 	color: #373737;
 }
 
-.assignment {
+.assignments {
 	display: flex;
+	flex-wrap: wrap;
+}
+
+.assignment {
+	width: 20%;
 	padding: 10px;
 	margin: 10px;
 	margin-bottom: 30px;
@@ -28,6 +33,8 @@ p {
 	border: 3px solid #FECC99;
 	margin-right: 20px;
 	border-radius: 5px;
+	display: block;
+	margin: auto;
 }
 
 .assignment a:hover {
