@@ -37,6 +37,14 @@ p {
 	margin: auto;
 }
 
+.assignment h2 {
+	padding-left: 10px;
+}
+
+.assignment p {
+	padding-left: 10px;
+}
+
 .assignment a:hover {
 	color: #FECC99;
 }
